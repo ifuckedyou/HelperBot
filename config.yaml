@@ -1,11 +1,11 @@
 telegram:
     api_id: 1061393
     api_hash: dee44b60afe8fd325a96f5237e495d7a
-    bot_token: 1525865826:AAEl1ap44VH7C4lgm2hkAWwCbJPlGtAERcI
+    bot_token: 1837098219:AAHHP4zRx6xv5rtxS_s1TmrY0hQZ-GHyU3M
 config:
     owner_id: 783435461
     sudo_id:
         - 783435461
-        - 558772678
+
     whitelisted_chats:
-        - -1001455294040
+        - -1001190109610
